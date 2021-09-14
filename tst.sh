@@ -1,9 +1,9 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:Ahmet Can İlhan
+#Apex Hack
+#İnstagram : Apex Hack Team
+#Youtube : Ahmet Can
 clear
 case $1 in
 
@@ -63,9 +63,9 @@ echo -e '\033[31;40;1m
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
 
-	   \e[35m☾★ ☾★ ☾★ ☾★ YamanEfkar ☾★ ☾★ ☾★ ☾★	
-	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Siber Timi ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @turksibertimi ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ Ahmet Can ☾★ ☾★ ☾★ ☾★	
+	 \e[31m☾★ ☾★ ☾★ ☾★ Apex Hack Tim ☾★ ☾★ ☾★ ☾★	
+  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @ApexCode ☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
